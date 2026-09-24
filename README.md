@@ -11,8 +11,7 @@
 ⠀    ͜‿ 　 　I⠀⠀found⠀⠀𝙥𝙚𝙖𝙘𝙚⠀⠀in⠀⠀your⠀⠀<kbd>violence</kbd>  .
 
 <div align="center">
-<a href="[https://yeonsiieun.atabook.org/]">atabook</a>  εϊз  
-<!--
+<a href="[YOUR_ATABOOK_URL](https://yeonsiieun.atabook.org/)">atabook</a><!--
 **YE0N-SIEUN/YE0N-SIEUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
