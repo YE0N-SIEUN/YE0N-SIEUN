@@ -1,4 +1,6 @@
 <p align="center"> 
+  ![Profile Views](https://komarev.com/ghpvc/?username=YE0N-SIEUN&color=blue&style=flat-square&label=PROFILE+VIEWS)
+  <p align="center"> 
 <img width="457" height="640" alt="image" src="https://github.com/user-attachments/assets/eb36ac72-b26f-496c-be79-660f10965685" />
 ⠀⠀
   
