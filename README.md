@@ -12,7 +12,7 @@
 
 <div align="center">
   <pre>my brain btw (^■^*)
-<a href="[YOUR_ATABOOK_URL](https://yeonsiieun.atabook.org/)">atabook</a>  εϊз  
+<a href="[[YOUR_ATABOOK_URL](https://yeonsiieun.atabook.org/)]">atabook</a>  εϊз  
 <!--
 **YE0N-SIEUN/YE0N-SIEUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
