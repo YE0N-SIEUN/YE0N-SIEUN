@@ -15,9 +15,5 @@
   <table>
     <tr>
       <td align="center">
-        my brain btw (&nbsp;^■^*) <br>
-        <a href="[YOUR_ATABOOK_URL](https://yeonsiieun.atabook.org/)">atabook</a> &nbsp;εϊз&nbsp; carrd
-      </td>
-    </tr>
-  </table>
-</div>
+     
+        <a href="[YOUR_ATABOOK_URL](https://yeonsiieun.atabook.org/)">atabook</a>
