@@ -1,5 +1,5 @@
 <p align="center"> 
-![](https://komarev.com/ghpvc/?username=YE0N-SIEUN&color=ff69b4&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=YE0N-SIEUN)
 <p align="center"> 
 <img width="457" height="640" alt="image" src="https://github.com/user-attachments/assets/eb36ac72-b26f-496c-be79-660f10965685" />
 ⠀⠀
