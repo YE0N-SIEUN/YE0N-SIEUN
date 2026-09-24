@@ -5,8 +5,7 @@
   
   
   
-![Red](https://img.shields.io/badge/Hello-Red-red)
-  ⠀⠀I⠀⠀found⠀⠀***peace***⠀⠀in⠀⠀your⠀⠀violence.
+<red>Hello</red>  ⠀⠀I⠀⠀found⠀⠀***peace***⠀⠀in⠀⠀your⠀⠀violence.
 
 
 
