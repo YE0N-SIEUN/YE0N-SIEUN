@@ -9,7 +9,7 @@
 ⠀⠀
   
    <p align="center"> 
-⠀   ◡ 𓐇 　 　I⠀⠀found⠀⠀𝙥𝙚𝙖𝙘𝙚⠀⠀in⠀⠀your⠀⠀<kbd>violence</kbd>.
+⠀    ͜ຽ ͡ ݁꒱ 　 　I⠀⠀found⠀⠀𝙥𝙚𝙖𝙘𝙚⠀⠀in⠀⠀your⠀⠀<kbd>violence</kbd>.
 
 
 
