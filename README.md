@@ -5,7 +5,7 @@
   
   
   
-  <span style="color:red">This text is red!</span>
+![Red](https://img.shields.io/badge/Hello-Red-red)
   ⠀⠀I⠀⠀found⠀⠀***peace***⠀⠀in⠀⠀your⠀⠀violence.
 
 
