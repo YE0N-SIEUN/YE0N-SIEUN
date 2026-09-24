@@ -16,4 +16,3 @@
     <tr>
       <td align="center">
      
-        <a href="[YOUR_ATABOOK_URL](https://yeonsiieun.atabook.org/)">atabook</a>
