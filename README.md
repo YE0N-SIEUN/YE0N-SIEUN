@@ -8,7 +8,7 @@
 ⠀⠀
   
    <p align="center"> 
-⠀    ͜‿◞ ྀི 　 　I⠀⠀found⠀⠀𝙥𝙚𝙖𝙘𝙚⠀⠀in⠀⠀your⠀⠀<kbd>violence</kbd>.
+⠀    ͜‿ 　 　I⠀⠀found⠀⠀𝙥𝙚𝙖𝙘𝙚⠀⠀in⠀⠀your⠀⠀<kbd>violence</kbd>.
 
 
 
