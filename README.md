@@ -5,7 +5,7 @@
   
   
   
-<red>Hello</red>  ⠀⠀I⠀⠀found⠀⠀***peace***⠀⠀in⠀⠀your⠀⠀violence.
+<span style="color: red;">Hello!</span>  ⠀⠀I⠀⠀found⠀⠀***peace***⠀⠀in⠀⠀your⠀⠀violence.
 
 
 
