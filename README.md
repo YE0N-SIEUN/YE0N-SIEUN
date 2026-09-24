@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/bnsae">
-    <img src="https://komarev.com/ghpvc/?username=weakhero&label=weakhero&color=800000&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=weakhero&label=weakhero&color=B3A044&style=flat" alt="Profile Views" />
   </a>
 </p>
 <p align="center"> 
