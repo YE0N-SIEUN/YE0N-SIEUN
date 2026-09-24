@@ -11,4 +11,13 @@
 ⠀    ͜‿ 　 　I⠀⠀found⠀⠀𝙥𝙚𝙖𝙘𝙚⠀⠀in⠀⠀your⠀⠀<kbd>violence</kbd>  .
 
 <div align="center">
-<a href="[[YOUR_ATABOOK_URL](https://yeonsiieun.atabook.org/)](https://yeonsiieun.atabook.org/)">atabook</a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        my brain btw (&nbsp;^■^*) <br>
+        <a href="[YOUR_ATABOOK_URL](https://yeonsiieun.atabook.org/)">atabook</a> &nbsp;εϊз&nbsp; carrd
+      </td>
+    </tr>
+  </table>
+</div>
