@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/bnsae">
+  <a href="https://github.com/YE0N-SIEUN">
     <img src="https://komarev.com/ghpvc/?username=weakhero&label=weakhero&color=B3A044&style=flat" alt="Profile Views" />
   </a>
 </p>
@@ -9,7 +9,7 @@
 ⠀⠀
   
    <p align="center"> 
-⠀I⠀⠀found⠀⠀𝙥𝙚𝙖𝙘𝙚⠀⠀in⠀⠀your⠀⠀<kbd>violence</kbd>.
+⠀   ◡ 𓐇 　 　I⠀⠀found⠀⠀𝙥𝙚𝙖𝙘𝙚⠀⠀in⠀⠀your⠀⠀<kbd>violence</kbd>.
 
 
 
