@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/YE0N-SIEUN">
-    <img src="https://komarev.com/ghpvc/?username=weakhero&label=weakhero&color=B3A044&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ཞ&label=ཞ&color=B3A044&style=flat" alt="Profile Views" />
   </a>
 </p>
 <p align="center"> 
@@ -9,7 +9,7 @@
 ⠀⠀
   
    <p align="center"> 
-⠀    ͜ຽ ͡ ݁꒱ 　 　I⠀⠀found⠀⠀𝙥𝙚𝙖𝙘𝙚⠀⠀in⠀⠀your⠀⠀<kbd>violence</kbd>.
+⠀    ͜‿◞ ྀི 　 　I⠀⠀found⠀⠀𝙥𝙚𝙖𝙘𝙚⠀⠀in⠀⠀your⠀⠀<kbd>violence</kbd>.
 
 
 
