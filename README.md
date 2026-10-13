@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-```text
-  𖦹 Soya  /  yeon .  5teen soon 6teen 、 istp  ✦  iwc / c+h freely    𐬹    ‿︵
-```
-</p>
+  <code>elis  ₒᵤ  tux  ✦  6ixteen 、 isfp</code><br>
+  <code>any pronouns  ✦  int/c+h freely! ۶ৎ</code>
+</p>>
