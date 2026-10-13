@@ -1,6 +1,4 @@
 
 <p align="center">
-  <a href="(https://yeonsiieun.atabook.org/">
-    <img src="ATABOOK" alt="carrd" width="100">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=YE0N-SIEUN&color=111111&style=flat-square&label=(*%CB%8Bv.v)%20%3A" alt="profile views" />
 </p>
