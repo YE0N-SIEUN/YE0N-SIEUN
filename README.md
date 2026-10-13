@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://atabook.org/c/yeonsieun">
+  <a href="https://atabook.org/c/yeonsieun.atabook.org">
     ► <b>atabook</b> (..◜ᴗ◝..) ੭
   </a>
 </p>
