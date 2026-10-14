@@ -1,3 +1,3 @@
 
 <p align="center">
-  $\color{#7AA2F7}{\text{Every other day I'm wondering...}}$
+  $\color{#ffffff}{\text{Just like...}}$
