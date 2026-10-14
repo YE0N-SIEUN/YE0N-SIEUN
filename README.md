@@ -10,4 +10,9 @@
 <p align="center">
 $\color{#ffffff}{\text{in}}$   $\color{#b0313e}{\text{𝙎𝙩𝙚𝙥𝙝𝙚𝙣.}}$
 
+> <p align="center">
+> ☘︎ Every other day I'm wondering (⁠•⁠-⁠•⁠) <br>
+> What's a human being gotta be like? ✧⁠°⁠
+> </p>
+
   
