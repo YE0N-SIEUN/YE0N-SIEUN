@@ -6,3 +6,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1c46e631-251f-4403-97ec-651a728694ca" width="550" alt="Image" />
 </p>
+
+<p align="center">
+$\color{#ffffff}{\text{in}}$ $\color{#b0313e}{\text{stephen.}}$
+  
