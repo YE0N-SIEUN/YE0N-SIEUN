@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YE0N-SIEUN&color=gray&style=flat-square&label=views" alt="profile views" />
+  <img src="https://hits.seeyoufarm.dev/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYE0N-SIEUN&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="views" />
 </p>
 
 <p align="center">
