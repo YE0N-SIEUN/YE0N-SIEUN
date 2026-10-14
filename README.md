@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YE0N-SIEUN&color=gray&style=flat-square&label=views" alt="profile views" />
+</p>
 
 <p align="center">
   $\color{#ffffff}{\text{Just like...}}$ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀   🥊      ⠀ ⠀ ⠀ ⠀ ⠀      ⠀ ⠀ ⠀ ⠀⠀  ⠀⠀ $\color{#ffffff}{\text{..I saw a}}$   $\color{#e8da9e}{\text{l̲i̲g̲h̲t̲}}$
