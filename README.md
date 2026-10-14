@@ -19,5 +19,5 @@ $\color{#ffffff}{\text{in}}$   $\color{#b0313e}{\text{𝙎𝙩𝙚𝙥𝙝𝙚�
 </table>
 
 <p align="center">
-  <a href="https://yeonsieun.atabook.org/"><b>ATABOOK</b></a> 𓏲 ✦
+  <a href="https://yeonsieun.atabook.org/"><b>ATABOOK</b></a>  　 　 ✦
 </p>
