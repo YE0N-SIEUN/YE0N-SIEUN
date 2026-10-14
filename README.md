@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1280" height="406" alt="image" src="https://github.com/user-attachments/assets/938b2ccf-6e00-4e70-965c-9ac71b30332e" />
+<img width="1280" height="406" alt="image" src="https://github.com/user-attachments/assets/7662630e-4a5a-422c-bfc2-33ef39406ef9" />
 
 <p align="center">
   $\color{#ffffff}{\text{Just like...}}$
