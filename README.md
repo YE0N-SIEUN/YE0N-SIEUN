@@ -13,8 +13,7 @@ $\color{#ffffff}{\text{in}}$   $\color{#b0313e}{\text{𝙎𝙩𝙚𝙥𝙝𝙚�
 <table align="center">
   <tr>
     <td align="center">
-      ☘︎ Every other day I'm wondering (⁠•⁠-⁠•⁠)<br>
-      What's a human being gotta be like? ✧⁠°⁠
+      15  ⑅   iwc  ⑅   c+h freely⁠
     </td>
   </tr>
 </table>
