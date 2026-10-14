@@ -1,3 +1,4 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YE0N-SIEUN&color=636363&style=flat-square&label=views" alt="Views Counter" />
-</p>
+<font color="#7AA2F7">This is soft blue text</font>
+<font color="#9ECE6A">This is soft green text</font>
+<font color="#F7768E">This is soft pink text</font>
