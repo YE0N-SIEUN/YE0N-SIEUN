@@ -15,7 +15,8 @@ $\color{#ffffff}{\text{..in}}$   $\color{#b0313e}{\text{𝙎𝙩𝙚𝙥𝙝𝙚
   <tr>
     <td align="center">
  　 　15 　 　˖ 　 　i̲w̲c̲ 　 　˖ 　 　c+h freely 
-        ˖⠀ ⠀ ⠀ ⠀ ⠀ ⠀ 
+     
+   ˖⠀ ⠀ ⠀ ⠀ ⠀ ⠀ 
    
    soya / yeon ⁠
     </td>
